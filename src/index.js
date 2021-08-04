@@ -9,7 +9,7 @@ const Theme = {
 
 
 const themeSwitchToggle = document.querySelector('#theme-switch-toggle');
-document.body.classList.add(Theme.LIGHT)
+// document.body.classList.add(Theme.LIGHT)
 
 chekTheme();
 
